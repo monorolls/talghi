@@ -1,5 +1,5 @@
   const redirectToTelegram = () => {
-    window.location.href = "https://t.me/publishers_adbluemedia";
+    window.location.href = "#";
   };
 
   document.addEventListener("contextmenu", function(event) {
